@@ -1,0 +1,7 @@
+*
+!**/src/main/java/*
+xpack/**
+**/package-info.java
+**/archetype-resources/**
+**/old-elasticsearch/**
+**/test/**

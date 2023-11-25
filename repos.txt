@@ -1,0 +1,7 @@
+java,git https://github.com/cucumber/cucumber-jvm
+java,git https://github.com/mockito/mockito
+java,git https://github.com/apache/kafka
+java,git https://github.com/RyanSusana/elepy
+java,git https://github.com/hibernate/hibernate-orm
+java,scala https://github.com/neo4j/neo4j
+java,git https://github.com/elastic/elasticsearch
