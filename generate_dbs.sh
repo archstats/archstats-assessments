@@ -1,7 +1,9 @@
 #!/bin/bash
 
-file=repos.txt
-rm -rf dbs
+file=$1
+if [[ -z $file ]]; then
+  file='repos.txt'
+fi
 mkdir dbs
 
 cat "$file" | while read -r line; do
